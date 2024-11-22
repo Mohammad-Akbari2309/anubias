@@ -15,7 +15,7 @@
 
 </div>
 
-# Anubias-Desktop
+# Mohammad Akbari : Anubias-Desktop
 
 Anubias is project help you to make your mobile apps so easy and native with GUI : )
 
@@ -115,8 +115,8 @@ Contribution are always welcome and recommended! Here is how:
 [GPL](https://www.gnu.org/licenses/gpl-3.0.en.html)
 
 
-## Support
+## Support 👇
 
 [![buymeacoffee](src/assets/badge/paypal.svg)](https://www.paypal.me/swepc)
 
-<div align="center"> Developed With Love ! ❤️</div>
+<div align="center"> Developed With Love ❤️</div>
